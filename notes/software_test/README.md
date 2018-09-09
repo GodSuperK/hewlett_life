@@ -23,7 +23,7 @@
     	- 运行维护
 
 6. V 模型
-  ![](v_model.png)
+  ![](pics/v_model.png)
 
 7. C/S 和 B/S 的区别:
 
@@ -43,3 +43,57 @@
     - 杀虫剂悖论
     - 测试活动依赖于测试背景
     - 系统有用性
+
+## Chapter 4
+1. 计算机软件配置项 CSCI(Computer Software Configuration Item)
+    > 是为独立的配置管理而设计的且能满足最终用户要求的一组软件，简称软件配置项。
+2. 基线(baseline)即软件技术状态基线
+    > 一个重要阶段的结束，形成一定的文档，文档经过大家的评审通过
+
+    ![](pics/baseline.png)
+
+3. 软件测试分类 (必考)
+    
+    ![](pics/software_test_catagory.png)
+
+4. 软件测试分级
+
+    ![](pics/software_test_level.png)
+    
+## Chapter 6
+1. 软件测试过程
+    - 一种抽象的模型
+    - 测试过程的质量
+    - 遵循基本原理
+2. 软件测试模型及特点：V, W, H
+
+    ![](pics/v_features.png)
+
+    ![](pics/w_features.png)
+
+    ![](pics/h_features.png)
+
+    ![](pics/totally_features.png)
+
+3. 软件开发模型：
+    - 瀑布, 增量， 迭代，原型，敏捷，螺旋
+4. 软件测试过程度量指标
+
+    ![](pics/hengliangzhibiao.png)
+
+5. 软件成熟度模型(CMM)
+
+    ![](pics/chengshudu_model.png)
+
+6. 软件测试流程图: 用自然语言描述
+    
+    ![](pics/test_flow.png)
+
+7. 软件测试过程主要工作内容
+    
+    ![](pics/main_task.png)
+
+    ![](pics/main_task2.png)
+    
+    
+
