@@ -23,6 +23,14 @@
     ![](pics/xampp_index.png)
 
 5. 启动XAMPP `sudo /opt/lampp/manager-linux-x64.run`
+    ```shell
+    # 启动 XAMPP
+    /opt/lampp/lampp start
+    # 停止 XAMPP
+    /opt/lampp/lampp stop
+    # 重新启动 XAMPP
+    /opt/lampp/lampp restart
+    ```
 
 ## 安装TestLink
 
