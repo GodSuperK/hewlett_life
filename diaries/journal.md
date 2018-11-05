@@ -92,3 +92,32 @@ IG总冠军
 
 #### 2018年 11月 04日 星期日 21:09:57 CST
 孔德成:revolving_hearts:袁菲
+
+#### 2018年 11月 05日 星期一 22:24:09 CST
+```Markdown
+# Weekday
+1. 7:00 - Get up
+2. 7:00 - 7:30 - Wash my face
+3. 7:30 - 8:00 - Make a plan of work
+4. 8:00 - 8:30 - Have breakfast with my love
+5. 8:30 - Take her to the classroom
+6. 9:00 - Implementation work plan
+7. 11:40 - Go to her classroom
+8. 12:00 - 12:30 - Have lunch
+9. 12:30 - 13:10 - Have a rest
+10. 13:15 - Take her to the classroom
+11. 13:30 - 16:50 - Go to her classroom 
+12. 17:00 - 17:20 - Have supper
+13. 17:20 - Go to my classroom
+14. 17:30 - Go to my dormitory 
+15. 17:30 - 18:30 - Have a rest
+16. 18:30 - 20:00 - Go jogging and push up
+17. 20:15 - 21:30 - Keep plan
+18. 21:30 - 21:45 - Have a supper
+19. 21:45 - 22:40 - Keep plan 
+20. 22:40 - 22:55 - Wash my face
+21. 23:00 - Say good night
+## Weekend
+Go to fun place and being happy with her
+```
+
